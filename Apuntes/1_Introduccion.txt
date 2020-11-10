@@ -1,0 +1,3 @@
+cuando utilizar comillas simples y dobles:
+
+analisis de variables

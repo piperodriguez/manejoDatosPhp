@@ -1,0 +1,11 @@
+cuando utilizar comillas simples y dobles:
+
+analisis de variables
+
+
+comilla simole -> cunaod un texto es de una linea o varias
+
+
+
+    Simples: usadas para textos. los caracteres. Estas no pueden obtener datos de una variable, la salida ser texto.
+    Dobles: Extienden a las variables, pudiendo agregarlas a la cadena y estas serán reconocidas
