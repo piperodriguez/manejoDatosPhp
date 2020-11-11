@@ -1,0 +1,17 @@
+#EXPRESIONES REGULARES
+/*
+/:  CONTENEDOR -> el contenedor es el inicio y el FINAL //
+^: INICIO -> el inicio despues del contenedor/^/
+$: FINAL -> /^$/
+-: RANGO -> es decir quiero del 1 al 9 /^0-9$/
+[]: PATRÓN -> quiero que valla deo 0 al 9
+{}: CONDICIÓN -> if if if
+
+
+
+
+la estructura base de una expresion regular seria
+
+
+/^$/
+
