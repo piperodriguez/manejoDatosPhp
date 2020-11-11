@@ -3,3 +3,12 @@ Maninupalcion de datos complejos,
 permiten guardar varios datos dentro de un solo nombre
 
 un arrray simple es cuando no tienen key ....
+
+ahora un array complejo
+
+/**
+ * array_key_exist -> verifica llave
+ * in_array -> verifica valor
+ * array_keys -> get keys
+ * array_values -> get values
+ */
