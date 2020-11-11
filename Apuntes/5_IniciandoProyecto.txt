@@ -1,0 +1,42 @@
+Iniciar proyecto
+utilizndo
+php, composer, phpunit
+
+
+primero debemos ejecutar la instalacion de php unite
+
+
+composer require --dev phpunit/phpunit
+
+"name": "frodriguez96/validacion",
+
+composer dump
+
+ahora creamos el archivo phpunit.xml
+
+
+touch phpunit.xml
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit bootstrap="vendor/autoload.php" colors="true">
+    <testsuite name="Test directory">
+        <directory>test</directory>
+    </testsuite>
+</phpunit>
+
+
+
+en la terminal ejecuto:
+
+vendor/phpunit/phpunit/phpunit
+
+
+realizamos validacion para un email
+con las pruebas garantiza que el codigo este bien
+y no permita emails malos
+
+
+codigo de calidad.
+
+
