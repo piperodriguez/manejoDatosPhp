@@ -39,4 +39,16 @@ y no permita emails malos
 
 codigo de calidad.
 
+los metodos deben comenza con test
 
+REVISION DEL PROYECTO.
+
+vendor/phpunit/phpunit/phpunit
+
+ejecutar pruebas
+
+desde el index.php
+
+programamos y respaldamos con pruebas.
+
+desde la terminal.
