@@ -1,0 +1,5 @@
+Maninupalcion de datos complejos,
+
+permiten guardar varios datos dentro de un solo nombre
+
+un arrray simple es cuando no tienen key ....
