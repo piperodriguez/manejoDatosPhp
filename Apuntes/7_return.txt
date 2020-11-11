@@ -1,0 +1,30 @@
+return
+esta palabra forma parte de cualquier funcion o metodo
+nos ayuda a retornar
+
+genera un proceso tenemos logica
+y ese resultado lo retornamos..
+
+
+function greet(){
+	return "<h1>Hola</h1>"; 
+}
+
+echo greet();
+
+
+//Para retornar mas de un valor o elemento utilizamos un array
+function greet1(){
+	return ['PDF', 'Laravel']; 
+}
+
+var_dump(greet1());
+
+exit(); //detiene la ejecución del sistema
+return; //retorna
+
+
+creas una funcion eblgobas algo
+eso genera un resultado esa logica 
+necesita de return para devolver y entragar
+con exito lo que as procesado.

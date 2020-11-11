@@ -1,0 +1,33 @@
+La funciones anónimas son geniales porque te evitas pensar en nombres para ellas xD
+
+Como aporte: Una función anónima se suele usar muy a menudo como parámetro directo en lugar de guardarlo en una variable (por comodidad)
+
+Los Closures también se llaman callbacks porque son las funciones que son llamadas de regreso al terminar de ejecutar el código de otra función que te la pidió
+
+
+
+ufff mire no mas que delicia ome los callbacks en php
+
+
+concepto interesante
+conocido como las funciones anonimas
+/**
+ * una funcion anonima sin nombre
+ * se usa cuando una variable requiere logica
+ * nos referimos a ella a travez de una variable
+ */
+$saludar = function ($name)
+{
+    return "Hola, $name";
+};
+
+echo $saludar('Felipe');
+
+uuff muy guache ejemplo calback.php
+
+
+una funcion espera como paametro Closure
+una funcion anonima.
+
+
+Closure : permite ese comportamiento de las funiones anonimas
