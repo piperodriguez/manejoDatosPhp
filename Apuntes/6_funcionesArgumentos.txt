@@ -1,0 +1,10 @@
+Argumentos: Colocamos dentro de los paréntesis, un valor o un parámetro
+Referencia Apunta u observa el comportamiento de otro elemento.
+valores colocas una variables directamente esperando a que se cumpla.
+referencia Además de hacer un cambio interno, también afecte al elemento que este fuera.
+
+
+Personalmente a mi frodriguez me gusta llamamarlos parametros pero es muy respetable...
+
+por defecto y reasifgnando el valor de afuera.
+
